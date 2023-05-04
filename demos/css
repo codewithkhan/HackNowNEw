@@ -1,0 +1,41 @@
+﻿@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/cardo/v19/wlp_gwjKBV1pqhv23IQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/cardo/v19/wlpygwjKBV1pqhND-ZQY-WY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/lato/v23/S6u_w4BMUTPHjxsI9w2_FQfo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/lato/v23/S6u9w4BMUTPHh7USSwaPHA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/lato/v23/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/lato/v23/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');
+}
+
+#add{
+  font-family: cardo !important;
+  font-size: 17px !important;
+}

@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Home with Image Background were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://investmentwp.com/demos
+Data file = /var/www/html/investmentwp/demos/wp-content/uploads/2022/08/demo-content-import-file_2022-08-21__01-38-02.xml
+Widget file = /var/www/html/investmentwp/demos/wp-content/uploads/2022/08/demo-widgets-import-file_2022-08-21__01-38-02.json
+Customizer file = /var/www/html/investmentwp/demos/wp-content/uploads/2022/08/demo-customizer-import-file_2022-08-21__01-38-02.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Navigation Menu - No Title - Imported
+Investment Download link - No Title - Imported
+Investment How can we help - How Can We Help? - Imported
+Investment Testimonial - No Title - Imported
+
+Shop Widget Area : 
+
+Filter Products by Price - No Title - Imported
+Filter Products by Rating - Average Rating - Imported
+Product Categories - Product Categories - Imported
+Products list - Products - Imported
+
+Portfolio Widget Area : 
+
+Investment Portfolio&#039;s Info - No Title - Imported
+Investment Portfolio&#039;s Info - No Title - Imported
+Investment How can we help - How Can We Help? - Imported
+Investment Portfolio&#039;s Info - No Title - Imported
+
+Service Widget Area : 
+
+Navigation Menu - No Title - Imported
+Investment Download link - No Title - Imported
+Investment How can we help - How Can We Help? - Imported
+Investment Testimonial - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Investment About company - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Widget Area 3 : 
+
+Investment Get in Toch - Get in Touch - Imported
+
+Footer Widget Area 4 : 
+
+Investment Newsletter form - Newsletter - Imported
+Investment Social links - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
